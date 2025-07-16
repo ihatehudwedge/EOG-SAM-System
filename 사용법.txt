@@ -1,0 +1,19 @@
+파일 안에 server/server.py를 먼저 실행해주세요
+
+그 다음 SAM_System/AirJet.exe 파일을 실행하세요
+
+만약 실행하고 나서 좌측 상단에 Connected 문구가 뜨지 않는다면 alt+F4를 눌러 다시 접속을 시작합니다
+server.py가 켜져있어야먄 Connected가 가능합니다.
+
+
+키 가이드
+마우스 상하좌우 드래그: 조준점 이동
+R키: 전투기를 출격
+Space키: 미사일 발사(5초 쿨타임)
+
+
+만약 AirJet.exe 프로그램을 종료한 뒤 재접속을 하게 되면 server.py가 클라이언트를 못잡아서
+다시 server.py를 재시작한 후 AirJet.exe를 실행하시면 됩니다.
+
+이미지 캡처 디렉토리는 C:/Temp/capture.png입니다
+이를 수정하시면 정상적으로 진행이 되지 않습니다.
