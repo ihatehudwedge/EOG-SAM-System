@@ -44,7 +44,7 @@
 
 # 수행 결과
 
-각 화면별 우측 상단에 검은색 로그가 뜨면 격추 성공을 의미 
+각 화면별 좌측 상단에 검은색 로그가 뜨면 격추 성공을 의미 
 ![시연화면](https://github.com/user-attachments/assets/bd3fd258-1cbe-42a5-96d4-b25975317110)
 
 <img width="1229" height="570" alt="image" src="https://github.com/user-attachments/assets/1720131b-b776-4be1-9f8e-04ee53a77a75" />
